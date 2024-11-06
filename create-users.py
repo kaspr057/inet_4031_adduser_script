@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+#### Brenden Kasprzyk
+#### create-users.py
+#### Program Creation Date: 11/05/2024
+#### Program Last Updated Date: 11/05/2024
+
 #what are these imports being used for?
 import os
 import re
