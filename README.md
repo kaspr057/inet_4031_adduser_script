@@ -16,5 +16,4 @@ To run the script, you will need python on your Ubuntu system. The script also n
 
 **Example Command**
 
-'''bash
 sudo python3 add_user_script.py user_list.txt
